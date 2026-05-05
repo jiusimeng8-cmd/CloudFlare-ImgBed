@@ -8,6 +8,18 @@
   "assets": {
     "directory": "frontend-dist"
   },
+  "kv_namespaces": [
+    {
+      "binding": "img_url",
+      "id": "34328378836445bdb65e9e5f022fd6c5"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "img_r2",
+      "bucket_name": "tishichituchuang"
+    }
+  ],
   "compatibility_flags": [
     "nodejs_compat"
   ]
